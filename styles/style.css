@@ -1,3 +1,39 @@
-p {
-    color:red;
-}
+html {
+    font-size: 16px; 
+    font-family: 'Tiro Telugu', serif;
+  }
+
+  h1 {
+    font-size: 45px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: #c9c94d;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f7a026;
+    padding: 0 40px 20px 40px;
+    border: 4px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #c9c94d;
+    text-shadow: 3px 3px 2px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
